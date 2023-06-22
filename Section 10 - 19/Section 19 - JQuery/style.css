@@ -1,0 +1,18 @@
+.clicked {
+    background-color: black;
+    color: beige;
+    border-radius: 4px;
+}
+
+.code {
+    display: block;
+    margin-bottom: 20px;
+}
+
+#disapear {
+    display: block;
+}
+
+.add-margin-top {
+    margin-top: 10px;
+}
